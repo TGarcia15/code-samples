@@ -1,0 +1,22 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "github profifer with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TG",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^5.8.38",
+    "babel-loader": "^5.3.3",
+    "webpack": "^1.12.15"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^3.0.0",
+    "react": "^15.2.0",
+    "react-dom": "^15.2.0"
+  }
+}
